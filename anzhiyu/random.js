@@ -1,4 +1,4 @@
-var posts=["2024/11/11/12413413/","2024/11/11/My-New-Post/","2024/11/11/My-New-Post111111/","2024/11/11/hello-world/","2024/11/11/这是什么东西来的/"];function toRandomPost(){
+var posts=["2024/11/11/12413413/","2024/11/11/hello-world/","2024/11/12/一年暴涨100倍！狗狗币最新挖矿教程，电脑也能快速挖，马斯克-特朗普助推-2024/","2024/11/12/Vercel-构建的功能齐全、可破解的-Next-js-AI-聊天机器人/","2024/11/12/安装AnZhiYu主题并个性化配置/","2024/11/12/MosDNS-是一个插件化的-DNS-转发-分流器/","2024/11/12/Web-管理页面设置/","2024/11/12/一件点击永久免费Adobe最新2025-快速教程/","2024/11/12/【日常必备】免费开源的同步工具Syncthing，会用很重要！/","2024/11/12/有了这个就可以弥补飞牛nas缺失的文件同步功能了/","2024/11/12/一款非常值得推荐的文件同步工具，完全开源/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
