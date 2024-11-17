@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>轻松搭建EasyTier内网穿透，基于wireguard技术，easytier配置和使用都非常简单</title>
+      <link href="/2024/11/15/%E8%BD%BB%E6%9D%BE%E6%90%AD%E5%BB%BAEasyTier%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%EF%BC%8C%E5%9F%BA%E4%BA%8Ewireguard%E6%8A%80%E6%9C%AF%EF%BC%8Ceasytier%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8%E9%83%BD%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95/"/>
+      <url>/2024/11/15/%E8%BD%BB%E6%9D%BE%E6%90%AD%E5%BB%BAEasyTier%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%EF%BC%8C%E5%9F%BA%E4%BA%8Ewireguard%E6%8A%80%E6%9C%AF%EF%BC%8Ceasytier%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8%E9%83%BD%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[视频内嵌代码]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软路由/openwrt插件ddns-go设置与使用，如何获取api密钥，实现自动获取公网IP</title>
+      <link href="/2024/11/15/%E8%BD%AF%E8%B7%AF%E7%94%B1-openwrt%E6%8F%92%E4%BB%B6ddns-go%E8%AE%BE%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96api%E5%AF%86%E9%92%A5%EF%BC%8C%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%85%AC%E7%BD%91IP/"/>
+      <url>/2024/11/15/%E8%BD%AF%E8%B7%AF%E7%94%B1-openwrt%E6%8F%92%E4%BB%B6ddns-go%E8%AE%BE%E7%BD%AE%E4%B8%8E%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96api%E5%AF%86%E9%92%A5%EF%BC%8C%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%85%AC%E7%BD%91IP/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container">[视频内嵌代码]</div><style>.video-container { position: relative; padding-top: 56.25%; } .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>openwr旁路由 內網穿透cloudflareTunnel隧道完成 訪問內網所有設備</title>
       <link href="/2024/11/14/openwr%E6%97%81%E8%B7%AF%E7%94%B1-%E5%85%A7%E7%B6%B2%E7%A9%BF%E9%80%8FcloudflareTunnel%E9%9A%A7%E9%81%93%E5%AE%8C%E6%88%90-%E8%A8%AA%E5%95%8F%E5%85%A7%E7%B6%B2%E6%89%80%E6%9C%89%E8%A8%AD%E5%82%99/"/>
       <url>/2024/11/14/openwr%E6%97%81%E8%B7%AF%E7%94%B1-%E5%85%A7%E7%B6%B2%E7%A9%BF%E9%80%8FcloudflareTunnel%E9%9A%A7%E9%81%93%E5%AE%8C%E6%88%90-%E8%A8%AA%E5%95%8F%E5%85%A7%E7%B6%B2%E6%89%80%E6%9C%89%E8%A8%AD%E5%82%99/</url>
